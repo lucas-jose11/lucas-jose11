@@ -7,7 +7,9 @@
 </div>
  
 <br>
- 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=lucas-jose11)](https://git.io/streak-stats)
+
 ### Minhas redes de contato:
  
 <div> 
