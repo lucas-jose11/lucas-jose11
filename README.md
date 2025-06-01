@@ -8,7 +8,7 @@
  
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=lucas-jose11)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=lucas-jose11&theme=travelers-theme&border_radius=5&locale=pt_BR&type=png)](https://git.io/streak-stats)
 
 ### Minhas redes de contato:
  
