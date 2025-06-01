@@ -8,7 +8,7 @@
  
 <br>
  
-### Me siga nas redes abaixo!
+### Minhas redes de contato:
  
 <div> 
   <a href ="mailto:lucasjosesilva012@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
