@@ -8,8 +8,6 @@
  
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lucas-jose11&theme=dark)](https://git.io/streak-stats)
-
 ### Minhas redes de contato:
  
 <div> 
